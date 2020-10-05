@@ -2,7 +2,14 @@
 
 Deep learning implementation in numpy for practicing my understanding on the concepts. Feel free to give constructive comments on the implementation.
 
+The implementation is tested on a few datasets:
+1. Breast Cancer dataset
+2. Digit dataset
+3. Iris dataset
+4. MNIST dataset
+
 Currently implemented:
+
 Layers:
 1. Fully Connected Feedforward Layer
 2. Convolutional Layer
