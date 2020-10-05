@@ -1,6 +1,6 @@
-# NeuralNetworkNumpy
+# Neural Network in Numpy
 
-Deep learning implementation in numpy.
+Deep learning implementation in numpy for practicing my understanding on the concepts. Feel free to give constructive comments on the implementation.
 
 Currently implemented:
 Layers:
